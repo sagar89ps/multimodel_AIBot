@@ -1,0 +1,9 @@
+
+streamlit==1.26.0
+langchain==0.0.304
+huggingface-hub==0.18.0
+transformers==4.32.0
+pinecone-client==2.2.3
+PyMuPDF==1.22.5
+
+pip install streamlit torch diffusers transformers soundfile opencv-python
